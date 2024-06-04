@@ -14,6 +14,7 @@
 		801907462C07E1480053351C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 801907452C07E1480053351C /* Assets.xcassets */; };
 		801907492C07E1480053351C /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 801907482C07E1480053351C /* Base */; };
 		802431E62C0E7CAE0095E44A /* ChecklistItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 802431E52C0E7CAE0095E44A /* ChecklistItem.swift */; };
+		802431E82C0E97310095E44A /* AddItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 802431E72C0E97310095E44A /* AddItemViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		801907482C07E1480053351C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8019074A2C07E1480053351C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		802431E52C0E7CAE0095E44A /* ChecklistItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistItem.swift; sourceTree = "<group>"; };
+		802431E72C0E97310095E44A /* AddItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				801907472C07E1480053351C /* LaunchScreen.storyboard */,
 				8019074A2C07E1480053351C /* Info.plist */,
 				802431E52C0E7CAE0095E44A /* ChecklistItem.swift */,
+				802431E72C0E97310095E44A /* AddItemViewController.swift */,
 			);
 			path = Checklists;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				802431E82C0E97310095E44A /* AddItemViewController.swift in Sources */,
 				801907412C07E1470053351C /* ChecklistViewController.swift in Sources */,
 				8019073D2C07E1470053351C /* AppDelegate.swift in Sources */,
 				8019073F2C07E1470053351C /* SceneDelegate.swift in Sources */,
