@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		801165A52C190A2D0077B355 /* Checklist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 801165A42C190A2D0077B355 /* Checklist.swift */; };
+		801165A72C1916D80077B355 /* ListDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 801165A62C1916D80077B355 /* ListDetailViewController.swift */; };
 		8019073D2C07E1470053351C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8019073C2C07E1470053351C /* AppDelegate.swift */; };
 		8019073F2C07E1470053351C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8019073E2C07E1470053351C /* SceneDelegate.swift */; };
 		801907412C07E1470053351C /* ChecklistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 801907402C07E1470053351C /* ChecklistViewController.swift */; };
@@ -19,6 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		801165A42C190A2D0077B355 /* Checklist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Checklist.swift; sourceTree = "<group>"; };
+		801165A62C1916D80077B355 /* ListDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDetailViewController.swift; sourceTree = "<group>"; };
 		801907392C07E1470053351C /* Checklists.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Checklists.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8019073C2C07E1470053351C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8019073E2C07E1470053351C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +76,8 @@
 				802431E52C0E7CAE0095E44A /* ChecklistItem.swift */,
 				802431E72C0E97310095E44A /* ItemDetailViewController.swift */,
 				8026D7662C17CBFB00DD1D6D /* AllListsTableViewController.swift */,
+				801165A42C190A2D0077B355 /* Checklist.swift */,
+				801165A62C1916D80077B355 /* ListDetailViewController.swift */,
 			);
 			path = Checklists;
 			sourceTree = "<group>";
@@ -153,6 +159,8 @@
 				8019073D2C07E1470053351C /* AppDelegate.swift in Sources */,
 				8019073F2C07E1470053351C /* SceneDelegate.swift in Sources */,
 				802431E62C0E7CAE0095E44A /* ChecklistItem.swift in Sources */,
+				801165A52C190A2D0077B355 /* Checklist.swift in Sources */,
+				801165A72C1916D80077B355 /* ListDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
